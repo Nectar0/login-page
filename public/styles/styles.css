@@ -4,11 +4,10 @@
 }
 
 .header {
-  text-align: center;
-  margin-top: 30px;
-}
-
-.login-container {
   display: flex;
+  margin-top: 30px;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
+  height: 500px;
 }
